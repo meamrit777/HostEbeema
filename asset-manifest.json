@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/HostEbeema/static/css/main.8bee9881.chunk.css",
+    "main.js": "/HostEbeema/static/js/main.5de30750.chunk.js",
+    "main.js.map": "/HostEbeema/static/js/main.5de30750.chunk.js.map",
+    "runtime-main.js": "/HostEbeema/static/js/runtime-main.a950e0fd.js",
+    "runtime-main.js.map": "/HostEbeema/static/js/runtime-main.a950e0fd.js.map",
+    "static/css/2.9bd9b2e5.chunk.css": "/HostEbeema/static/css/2.9bd9b2e5.chunk.css",
+    "static/js/2.0a065ec8.chunk.js": "/HostEbeema/static/js/2.0a065ec8.chunk.js",
+    "static/js/2.0a065ec8.chunk.js.map": "/HostEbeema/static/js/2.0a065ec8.chunk.js.map",
+    "index.html": "/HostEbeema/index.html",
+    "static/css/2.9bd9b2e5.chunk.css.map": "/HostEbeema/static/css/2.9bd9b2e5.chunk.css.map",
+    "static/css/main.8bee9881.chunk.css.map": "/HostEbeema/static/css/main.8bee9881.chunk.css.map",
+    "static/js/2.0a065ec8.chunk.js.LICENSE.txt": "/HostEbeema/static/js/2.0a065ec8.chunk.js.LICENSE.txt",
+    "static/media/Footer.css": "/HostEbeema/static/media/bg-img.ddd9a3e2.png",
+    "static/media/calculator.046a9d0c.svg": "/HostEbeema/static/media/calculator.046a9d0c.svg",
+    "static/media/calculator.5b587833.svg": "/HostEbeema/static/media/calculator.5b587833.svg",
+    "static/media/contact.css": "/HostEbeema/static/media/contact_banner.add7477f.png",
+    "static/media/phone.379bb862.svg": "/HostEbeema/static/media/phone.379bb862.svg",
+    "static/media/playbutton.27caf138.svg": "/HostEbeema/static/media/playbutton.27caf138.svg",
+    "static/media/Register.css": "/HostEbeema/static/media/welcome-bg.d3a46a43.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a950e0fd.js",
+    "static/css/2.9bd9b2e5.chunk.css",
+    "static/js/2.0a065ec8.chunk.js",
+    "static/css/main.8bee9881.chunk.css",
+    "static/js/main.5de30750.chunk.js"
+  ]
+}
