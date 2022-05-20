@@ -1,0 +1,79 @@
+.confirm-container {
+  margin: 30px 60px;
+}
+.real-step {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.real-step-wrapper {
+  width: 85%;
+}
+.steps-content {
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+}
+.step-wrapper {
+  width: 45%;
+  box-shadow: 0 0 4px rgb(0 0 0 / 20%);
+  border-radius: 10px;
+}
+.confim-button {
+  width: 40% !important;
+  float: right;
+}
+.title-compayent {
+  text-align: center;
+  width: 100%;
+  margin-bottom: 0;
+}
+.step-title {
+  background: #fafafa;
+  width: 100%;
+  padding: 15px 25px;
+  font-size: 16px !important;
+  font-weight: 600 !important;
+  color: #3d538c;
+  margin-bottom: 25px;
+}
+.step-title.payment {
+  text-align: center;
+}
+/* .step-title {
+  background: #fafafa;
+  width: 100%;
+  padding: 15px 25px;
+  font-size: 16px !important;
+  font-weight: 500 !important;
+  color: #3d538c;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+} */
+
+.payment-confirmation-button {
+  display: flex;
+  justify-content: center;
+}
+
+.last-step {
+  padding: 15px 30px;
+  width: 47%;
+  box-shadow: 0 0 4px rgb(0 0 0 / 20%);
+  text-align: center;
+}
+.last-step h1 {
+  font-size: 21px;
+  color: #2c3e50;
+}
+
+.last-step h5 {
+  font-size: 18px;
+  font-family: Roboto !important;
+  color: #333;
+  margin: 0;
+}
+
+.input.ant-input.ant-input-lg.confirm-username:focus {
+  font-weight: 500 !important;
+}
